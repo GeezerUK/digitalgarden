@@ -1,10 +1,10 @@
 ---
-{"banner":[["SundayBanner.gif"]],"banner-y":2,"banner-x":30,"content-start":200,"banner-display":"cover","banner-repeat":true,"banner-height":800,"banner-fade":-200,"banner-radius":25,"cssclasses":["image-borders","image-small","timegarden-daily","sunday","daily"],"Date":"2026-01-04","Tags":["dnd","storyline","progress","sessionnote"],"Campaign":"[[The Mighty Hands]]","dg-publish":true,"dg-home":false,"permalink":"/0-D&D/The Mighty Hands/","dgPassFrontmatter":true,"noteIcon":"","created":"2026-01-08T09:10:15.586+00:00","updated":"2026-01-10T12:08:14.902+00:00"}
+{"banner":[["SundayBanner.gif"]],"banner-y":2,"banner-x":30,"content-start":200,"banner-display":"cover","banner-repeat":true,"banner-height":800,"banner-fade":-200,"banner-radius":25,"cssclasses":["image-borders","image-small","timegarden-daily","sunday","daily"],"Date":"2026-01-04","Tags":["dnd","storyline","progress","sessionnote"],"dg-publish":true,"dg-home":false,"permalink":"/0-D&D/The Mighty Hands/","dgPassFrontmatter":true,"noteIcon":"","created":"2026-01-08T09:10:15.586+00:00","updated":"2026-01-10T12:10:34.193+00:00"}
 ---
 
 
 ## Dungeons & Dragons 5e
-
+[[0-D&D/The Mighty Hands\|The Mighty Hands]]
 ___
 
 ## The Mighty Hands/Cleaners
