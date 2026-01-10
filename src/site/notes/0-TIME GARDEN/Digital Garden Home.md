@@ -1,5 +1,5 @@
 ---
-{"banner":[["SundayBanner.gif"]],"banner-y":2,"banner-x":30,"content-start":200,"banner-display":"cover","banner-repeat":true,"banner-height":800,"banner-fade":-200,"banner-radius":25,"cssclasses":["image-borders","image-small","Monday","daily"],"Date":"2026-01-10","Tags":["idea","obsidian","progress","completed"],"Campaign":"[[0-D&D/The Mighty Hands\|The Mighty Hands]]","dg-publish":true,"dg-home":true,"permalink":"/0-TIME GARDEN/Digital Garden Home/","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"","created":"2026-01-10T00:03:26.634+00:00","updated":"2026-01-10T12:05:15.630+00:00"}
+{"banner":[["SundayBanner.gif"]],"banner-y":2,"banner-x":30,"content-start":200,"banner-display":"cover","banner-repeat":true,"banner-height":800,"banner-fade":-200,"banner-radius":25,"cssclasses":["image-borders","image-small","Monday","daily"],"Date":"2026-01-10","Tags":["idea","obsidian","progress","completed"],"dg-publish":true,"dg-home":true,"permalink":"/0-TIME GARDEN/Digital Garden Home/","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"","created":"2026-01-10T00:03:26.634+00:00","updated":"2026-01-10T12:11:36.593+00:00"}
 ---
 
 ___
@@ -14,7 +14,7 @@ ___
 
 ___
 - Dungeons & Dragons 5e Campaign
-- [[The Mighty Hands]] 
+- [[0-D&D/The Mighty Hands\|The Mighty Hands]] 
 
 [[0-D&D/1-Session Journals/Episode 15\|Episode 15]] Tuesday, 20th January 2026
 [[0-D&D/1-Session Journals/Episode 14\|Episode 14]] Tuesday, 6th January 2026
